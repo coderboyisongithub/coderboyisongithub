@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @coderboyisongithub
-- 👀 I’m interested in ...Computer Vision and Computer Graphics
-- 🌱 I’m currently learning ...Computer Science 
-- 💞️ I’m looking to collaborate on ...
+I like differential equations,neural network and computer graphics
 - 📫 How to reach me ... rajshivanshu19@gmail.com
 
 <!---
