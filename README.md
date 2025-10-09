@@ -1,5 +1,5 @@
 I like algebra,neural network and computer graphics
-- 📫 How to reach me ... rajshivanshu19[att]gmail.com
+- 📫 How to reach me ... rajshivanshu19[att]gmail dot com
 ## 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
 <img src="https://devicon-website.vercel.app/api/c/original.svg" alt="C" width="45" height="45"/>
